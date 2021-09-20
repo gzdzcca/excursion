@@ -1,5 +1,33 @@
 header {
     font-weight: bold;
     text-align: center;
-    font-size: xx-large;
+    font-size: xxx-large;
+    color: white
+}
+
+a{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color:lightgreen;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+img,video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1,h2,h3 {
+    color:white;
+    text-align: center;
+}
+
+h3 {
+    color:grey;
 }
